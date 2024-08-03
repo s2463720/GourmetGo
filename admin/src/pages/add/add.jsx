@@ -26,9 +26,9 @@ const Add = () => {
                         <p>Product category</p>
                         <select name="category">
                             <option value="Salad">Salad</option>
-                            <option value="Rolls">Clothing</option>
-                            <option value="Desserts">Electronics</option>
-                            <option value="Sandwich">Furniture</option>
+                            <option value="Rolls">Rolls</option>
+                            <option value="Desserts">Desserts</option>
+                            <option value="Sandwich">Sandw</option>
                             <option value="Pure Veg">Toys</option>
                             <option value="Pasta">Books</option>
                             <option value="Noodles">Books</option>
