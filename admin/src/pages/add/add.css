@@ -23,4 +23,19 @@
 
 .add-category-price {
     display: flex;
+    gap: 30px;
+}
+
+.add-category-price select, .add-price flex-col{
+    max-width: 120px;
+    padding: 10px;
+}
+
+.add-Button{
+    max-width: 120px;
+    border: none;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
 }
